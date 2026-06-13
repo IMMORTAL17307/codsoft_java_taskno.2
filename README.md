@@ -4,6 +4,7 @@ A Java application to calculate total marks, average percentages, and assign let
 
 ### 👨‍💻 Developer Details
 * **Name:** Ishant Khare
+* **Domain:** Java Programming
 * **Company:** CodSoft
 
 ### 🎯 Objective
